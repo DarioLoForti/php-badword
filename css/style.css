@@ -1,0 +1,9 @@
+.text-slim{
+    font-weight: 300;
+    font-size: 25px;
+}
+
+.text-bold{
+    font-weight: bold;
+    font-size: 50px;
+}
